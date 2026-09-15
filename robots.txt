@@ -1,0 +1,5 @@
+# IIT Kharagpur — Outreach Course Network
+User-agent: *
+Allow: /
+
+Sitemap: https://ocn.iitkgp.ac.in/sitemap.xml

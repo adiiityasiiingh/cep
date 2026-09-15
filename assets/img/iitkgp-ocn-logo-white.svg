@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" role="img" aria-labelledby="t">
+  <title id="t">IIT Kharagpur OCN — Outreach Course Network</title>
+  <defs>
+    <path id="arcTop" d="M 33 96 A 67 67 0 0 1 167 96" fill="none"/>
+    <path id="arcTopIn" d="M 46 96 A 54 54 0 0 1 154 96" fill="none"/>
+  </defs>
+  <g transform="translate(6 5) scale(0.95)">
+  <path d="M173.89 91.93L185.87 91.27L185.87 100.73L173.89 100.07ZM172.42 111.20L184.17 113.66L181.72 122.79L170.32 119.05ZM166.02 129.42L176.73 134.84L172.00 143.03L161.96 136.47ZM155.12 145.37L164.06 153.38L157.38 160.06L149.37 151.12ZM140.47 157.96L147.03 168.00L138.84 172.73L133.42 162.02ZM123.05 166.32L126.79 177.72L117.66 180.17L115.20 168.42ZM104.07 169.89L104.73 181.87L95.27 181.87L95.93 169.89ZM84.80 168.42L82.34 180.17L73.21 177.72L76.95 166.32ZM66.58 162.02L61.16 172.73L52.97 168.00L59.53 157.96ZM50.63 151.12L42.62 160.06L35.94 153.38L44.88 145.37ZM38.04 136.47L28.00 143.03L23.27 134.84L33.98 129.42ZM29.68 119.05L18.28 122.79L15.83 113.66L27.58 111.20ZM26.11 100.07L14.13 100.73L14.13 91.27L26.11 91.93ZM27.58 80.80L15.83 78.34L18.28 69.21L29.68 72.95ZM33.98 62.58L23.27 57.16L28.00 48.97L38.04 55.53ZM44.88 46.63L35.94 38.62L42.62 31.94L50.63 40.88ZM59.53 34.04L52.97 24.00L61.16 19.27L66.58 29.98ZM76.95 25.68L73.21 14.28L82.34 11.83L84.80 23.58ZM95.93 22.11L95.27 10.13L104.73 10.13L104.07 22.11ZM115.20 23.58L117.66 11.83L126.79 14.28L123.05 25.68ZM133.42 29.98L138.84 19.27L147.03 24.00L140.47 34.04ZM149.37 40.88L157.38 31.94L164.06 38.62L155.12 46.63ZM161.96 55.53L172.00 48.97L176.73 57.16L166.02 62.58ZM170.32 72.95L181.72 69.21L184.17 78.34L172.42 80.80Z" fill="#ffffff"/>
+  <circle cx="100" cy="96" r="74" fill="none" stroke="#ffffff" stroke-width="5"/>
+  <circle cx="100" cy="96" r="61" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  <text font-family="Georgia,'Times New Roman',serif" font-size="8.6" font-weight="700" fill="#ffffff">
+    <textPath href="#arcTop" startOffset="50%" text-anchor="middle" textLength="196" lengthAdjust="spacingAndGlyphs">INDIAN INSTITUTE OF TECHNOLOGY</textPath>
+  </text>
+  <text font-family="'Noto Sans Devanagari','Nirmala UI',sans-serif" font-size="8" fill="#ffffff">
+    <textPath href="#arcTopIn" startOffset="50%" text-anchor="middle" textLength="150" lengthAdjust="spacingAndGlyphs">भारतीय प्रौद्योगिकी संस्थान खड़गपुर</textPath>
+  </text>
+  <path d="M100 126 C97 106 96 92 100 74 C104 92 103 106 100 126 Z" fill="#ffffff"/>
+  <path d="M100 82 C86 78 76 72 70 64" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M100 82 C114 78 124 72 130 64" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M100 92 C88 92 79 90 73 84" stroke="#ffffff" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M100 92 C112 92 121 90 127 84" stroke="#ffffff" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M100 76 C94 66 95 58 100 50 C105 58 106 66 100 76 Z" fill="#ffffff"/>
+  <g transform="translate(66.0 62.0) rotate(-30) scale(1.00)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g><g transform="translate(134.0 62.0) rotate(210) scale(1.00)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g><g transform="translate(69.0 83.0) rotate(-12) scale(1.00)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g><g transform="translate(131.0 83.0) rotate(192) scale(1.00)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g>
+  <g transform="translate(80.0 56.0) rotate(-42) scale(0.85)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g><g transform="translate(120.0 56.0) rotate(222) scale(0.85)"><path d="M0 0C7 -5 15 -4 18 0C15 4 7 5 0 0Z" fill="#ffffff"/></g>
+  <path d="M100 126 C84 117 62 115 44 120 L44 146 C62 141 84 143 100 152 C116 143 138 141 156 146 L156 120 C138 115 116 117 100 126 Z"
+        fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M100 126 L100 152" stroke="#ffffff" stroke-width="3.4"/>
+  <path d="M52 127 C66 124 82 126 92 132" stroke="#ffffff" stroke-width="1.5" fill="none" opacity=".7"/>
+  <path d="M148 127 C134 124 118 126 108 132" stroke="#ffffff" stroke-width="1.5" fill="none" opacity=".7"/>
+  <path d="M52 135 C66 132 82 134 92 140" stroke="#ffffff" stroke-width="1.5" fill="none" opacity=".7"/>
+  <path d="M148 135 C134 132 118 134 108 140" stroke="#ffffff" stroke-width="1.5" fill="none" opacity=".7"/>
+  <text x="68" y="144" font-family="Georgia,serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">19</text>
+  <text x="132" y="144" font-family="Georgia,serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">51</text>
+  <rect x="28" y="158" width="144" height="23" rx="2" fill="#ffffff"/>
+  <text x="100" y="174" font-family="'Noto Sans Devanagari','Nirmala UI',sans-serif" font-size="12.5" fill="#1d2762" text-anchor="middle">योगः कर्मसु कौशलम्</text>
+  </g>
+  <line x1="222" y1="42" x2="222" y2="158" stroke="#ffffff" stroke-width="2" opacity=".35"/>
+  <text x="252" y="108" font-family="Georgia,'Times New Roman',serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="-.5">IIT Kharagpur OCN</text>
+  <text x="256" y="142" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#c9a227" letter-spacing="6.5">OUTREACH COURSE NETWORK</text>
+</svg>
