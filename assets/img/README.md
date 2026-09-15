@@ -1,12 +1,18 @@
 # Brand assets
 
 The four SVG files in this folder are **hand-built stand-ins** for the official
-IIT Kharagpur OCN artwork. They were drawn from the supplied logo because the
-source files could not be retrieved in the build environment.
+IIT Kharagpur OCN artwork. They are redrawn from the supplied logo: the source
+image files could not be retrieved in the build environment, so the mark was
+reconstructed by eye rather than traced.
+
+They approximate the real mark — cog ring, circular English and Devanagari
+legends, banyan tree over an open book, 1951, and the motto banner — but they
+are **not** the official artwork and should not be treated as brand-accurate.
 
 Replace them with the official artwork before the site goes live. Keep the
 filenames exactly as they are and every page picks the new files up with no
-markup change.
+markup change. PNG works too — change the extension in the `<img>` tags, or
+simply keep the `.svg` names if you export SVG.
 
 | File | Used by | Notes |
 |---|---|---|
