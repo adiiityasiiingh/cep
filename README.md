@@ -37,7 +37,8 @@ assets/css/style.css          Institute theme — all design tokens live at the 
 assets/js/catalogue.js        Every programme. Single source of truth.
 assets/js/catalogue-filter.js Catalogue search and filtering
 assets/js/site.js             Navigation, accordions, text sizing, reveal
-assets/img/                   Crest and lockup — see assets/img/README.md
+assets/img/                   Official lockups, favicons, campus photography
+                              — see assets/img/README.md
 ```
 
 ## Editing the catalogue
@@ -76,6 +77,14 @@ If you prefer to regenerate rather than hand-edit, the pages follow one template
 banner, overview, course stack table, delivery and assessment, credentials,
 at-a-glance sidebar, related programmes.
 
+## Imagery
+
+The masthead and footer carry the official reversed horizontal lockup. The home
+hero and every interior page banner sit on the main-gate photograph under a heavy
+gradient scrim, so headline text stays well clear of AA contrast. The Main
+Building photograph appears in a campus band on Home and About, lazy-loaded with
+explicit dimensions so it reserves its space and does not shift the layout.
+
 ## Accessibility
 
 Skip link, one `<h1>` per page, landmark regions, visible focus rings, an A-/A/A+
@@ -88,7 +97,10 @@ honoured. A print stylesheet is included.
 
 ## Before going live
 
-- [ ] Replace the stand-in crest and lockup with official artwork — see `assets/img/README.md`
+- [ ] **Clear the rights on `campus-main-building.jpg`** — it carries a visible
+      photographer's watermark ("©H.Bal…"). Either licence it or swap in an
+      Institute-owned photograph at the same 960×592 ratio. See `assets/img/README.md`
+- [ ] Confirm provenance of `campus-main-gate.jpg` (no watermark, but unverified)
 - [ ] Confirm the OCN contact points with the Office of the Dean (Outreach); the
       telephone, fax and email on `contact.html` are carried from the Institute's
       Continuing Education listings and are flagged on the page for verification
